@@ -4,7 +4,7 @@
 
 👨‍🎓 Self-taught in most areas but have been in the surrounding industry for 10+ years. 
 
-⏮️ Most recently, I was a Product/Projet Manager/sysAdmin/tester for my own Software Dev Agency. 🎩 👒 🎩
+⏮️ Most recently, I was a Product Manager/sysAdmin/Engineer Manager in my own Software Dev Agency. 🎩 👒 🎩
 
 🖥️ I'm an avid self-hoster and home automater with ESXI, OMV, Arduinos, and Home Assistant. My homelab server is a HP proliant ML350 gen9.
 

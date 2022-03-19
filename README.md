@@ -16,9 +16,10 @@
 
 ## Online courses I have comepleted and reccommend (Free and Paid)
 
-[React - The Complete Guide incl Hooks, React Router, Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller
+[React - The Complete Guide incl Hooks, React Router, Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and [NextJS React The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/learn/) by Maximilian Schwarzmüller
 
-> Great updated course by a wonderful teacher where you can learn everything you need for ReactJS including Hooks, Redux, React Routing, and Next.js
+
+> Great updated courses by a wonderful teacher where you can learn everything you need for ReactJS including Hooks, Redux, React Routing, and Next.js
 
 [Javascript30](https://javascript30.com/) by Wes Bos
 

@@ -1,20 +1,20 @@
-☺️ Hi, I’m Ryan Valentine, currently residing in Sunny, Salt Lake City 🏔️:relaxed:
+☺️ Hi, I’m Ryan Valentine :relaxed: 
 
 🏃 I’m currently pursuing my love for creating tech products as a Software Engineer.
 
-👨‍🎓 Self-taught in most areas but have been in the surrounding industry for 10+ years.
+👨‍🎓 Self-taught in most everything and have been in the tech industry for 10+ years.
 
-⏮️ Most recently, I was a Software Engineer/Technical Product Manager in my own Software Dev Agency. 🎩 👒 🎩
+⏮️ I am a Software Engineer/Product Manager at Atria Development Solutions. 🎩 👒 🎩
 
 🖥️ I'm an avid self-hoster and home automater with ESXI, OMV, Arduinos, and Home Assistant. My homelab server is a HP Proliant ML350 gen9.
 
-🍎 Fully stocked in the Apple Eco-system, for better or worse, but I have an Android-Pixel4, which was previously used for testing, but now strictly used as a drawer decoration 🙃
+🍎 Fully vested in the Apple Eco-system, for better or worse, but I do have an Android-Pixel 4, which is only turned on for testing apps, otherwise it is a drawer decoration 🙃
 
 👍 👍 👉 🚴 🛠️ ⛳ 🏂 🛫 🌏 💻 🎧
 
 📫 You can reach me at ryan@atriadev.com Please checkout my resume and portfolio at [ryanrvalentine.dev](https://ryanrvalentine.dev)
 
-## Online courses I have comepleted and reccommend (Free and Paid)
+## Online courses I have recommend (Free and Paid)
 
 [React - The Complete Guide incl Hooks, React Router, Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and [NextJS React The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/learn/) by Maximilian Schwarzmüller
 
